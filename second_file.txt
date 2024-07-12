@@ -1,1 +1,2 @@
-//file2
+!DOCTYPE SECOND FILE 
+// this is important for understanding!!
